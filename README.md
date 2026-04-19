@@ -1,26 +1,29 @@
-# 📧 Email Spam Detection
+# 📧 Email Spam Detection System
 
-This project is a machine learning model that detects whether an email is spam or not.
+A Machine Learning project that classifies emails as Spam or Not Spam using NLP techniques.
 
-## 🚀 Features
-- Data preprocessing
-- Text cleaning
-- Model training
-- Spam classification
+## 🚀 Project Overview
+This project uses text processing and machine learning algorithms to detect spam emails efficiently.
 
-## 🛠️ Technologies Used
+## 📊 Features
+- Data Cleaning & Preprocessing
+- Text Vectorization
+- Model Training & Testing
+- Spam Classification
+
+## 🛠️ Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 - Jupyter Notebook
 
+## 📈 Result
+The model successfully classifies emails with good accuracy.
+
 ## ▶️ How to Run
-1. Open the notebook file
-2. Run all cells step by step
-3. Check the output
+1. Open the notebook (.ipynb)
+2. Run all cells
+3. View results
 
-## 📊 Dataset
-- Email dataset used for spam detection
-
-## 📌 Author
-- Mohd Sadiq
+## 👨‍💻 Author
+Mohd Sadiq
